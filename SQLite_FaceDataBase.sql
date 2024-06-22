@@ -1,0 +1,11 @@
+-- -- SQLite
+CREATE TABLE Person(id INTEGER NOT NULL PRIMARY KEY, name TEXT NOT NULL);
+
+
+-- SELECT * FROM Person;
+
+-- DELETE FROM Person;
+
+-- DELETE FROM Person WHERE id=2;
+
+-- DROP TABLE Person
